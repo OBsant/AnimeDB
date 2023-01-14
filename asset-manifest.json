@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AnimeDB/static/css/main.ce407db6.css",
+    "main.js": "/AnimeDB/static/js/main.dc76b6e0.js",
+    "index.html": "/AnimeDB/index.html",
+    "main.ce407db6.css.map": "/AnimeDB/static/css/main.ce407db6.css.map",
+    "main.dc76b6e0.js.map": "/AnimeDB/static/js/main.dc76b6e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce407db6.css",
+    "static/js/main.dc76b6e0.js"
+  ]
+}
