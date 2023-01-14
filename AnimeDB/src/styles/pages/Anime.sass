@@ -1,0 +1,34 @@
+@mixin low-display
+    @media (max-width: 1035px)
+        @content
+
+@mixin mobile
+    @media (max-width: 669px)
+        @content
+
+.info
+    padding: 3rem 3rem 3rem 3rem
+
+    &-container
+        display: flex
+        flex-direction: row
+        align-items: center
+        gap: 1rem
+
+        @include low-display
+            flex-direction: column
+
+    &-trailer
+        display: flex
+        flex-direction: column
+        align-items: center
+
+        .trailer
+            width: 660px
+            height: "auto"
+
+            @include mobile
+                width: 330px
+
+    h1
+        padding-bottom: 3rem
