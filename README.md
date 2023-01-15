@@ -3,7 +3,7 @@
 <h2>Descrição:</h2>
 
 Este é um projeto feito em React e Typescript, que tem como objetivo servir como uma base de dados de animes, sendo possivel fazer pesquisas e ver informações sobre os animes.
-Neste projeto foi usado a <a href="https://docs.api.jikan.moe">Jikan API</a>, que possui os dados do site <a href="https://myanimelist.net">My Anime List</a>, para trazer as informações.
+Neste projeto foi usado a <a href="https://docs.api.jikan.moe">Jikan API</a>, que possui os dados do site <a href="https://myanimelist.net">My Anime List</a> para trazer as informações.
 
 <h2>Acessar projeto:</h2>
 <a href="https://obsant.github.io/AnimeDB/">AnimeDB</a>
