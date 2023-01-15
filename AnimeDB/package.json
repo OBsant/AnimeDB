@@ -1,6 +1,6 @@
 {
-  "homepage": "http://OBsant.github.io/AnimeDB",
   "name": "animedb",
+  "homepage": "/AnimeDB/#",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

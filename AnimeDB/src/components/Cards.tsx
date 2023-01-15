@@ -22,7 +22,7 @@ const Cards = ({ data }: Props) => {
                 <Button
                   variant="primary"
                   onClick={() =>
-                    (window.location.href = `/animes/${data.mal_id}`)
+                    (window.location.href = `/AnimeDB/#/animes/${data.mal_id}`)
                   }
                 >
                   See More
