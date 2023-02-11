@@ -2,7 +2,7 @@
 
 <h2>Descrição:</h2>
 
-Este é um projeto feito em React.js e Typescript, que tem como objetivo servir como uma base de dados de animes, sendo possivel fazer pesquisas e ver informações sobre os animes. Além disso, a interface é altamente interativa e intuitiva, garantindo uma experiência de usuário agradável.
+Este é um projeto feito em React.js e Typescript, que tem como objetivo servir como uma base de dados de animes, sendo possivel fazer pesquisas e ver informações sobre os animes.
 Neste projeto foi usado a <a href="https://docs.api.jikan.moe">Jikan API</a>, que possui os dados do site <a href="https://myanimelist.net">My Anime List</a> para trazer as informações.
 
 <h2>Acessar projeto:</h2>
